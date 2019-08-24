@@ -1,0 +1,22 @@
+.cart {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 5% 5% 0 5%;
+
+    h4 {
+        color: maroon;
+        padding: 20px 10px 10px 0;
+    }
+    
+    .item-list {
+        overflow: auto;
+        max-height: 60vh;
+        margin-bottom: 20px;
+    }
+
+    .cart-total {
+        font-weight: 600;
+        text-align: left;
+    }
+}

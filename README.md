@@ -12,18 +12,9 @@
 
 ## Running the Application
 
-- Running Express Application
-
 ```shell
 $ npm run dev
 ```
-
-- Running frontend application with webpack
-
-```shell
-$ npm run webpack
-```
-
 
 ## Test description
 
@@ -41,10 +32,6 @@ These are the business rules:
 - Each cart item must have an action button to `remove item from cart`.
 
 
-Here is the demo showing how it behave like:
-
-[demo video][demo]
-
 ### Bonus points
 
 - Use redux as state manager.
@@ -52,4 +39,3 @@ Here is the demo showing how it behave like:
 - Favor using functional components in your application.
 
 [nodejs]: https://nodejs.org/en/download/
-[demo]: https://www.dropbox.com/s/t6k4oypu2kg3h40/adessa-demo-video.mp4
